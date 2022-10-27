@@ -66,3 +66,13 @@ ul {
     margin-left: 3%;
     border: #000000;
 }
+nav li {
+    display: inline;
+    margin-right: 5%;
+    }
+nav a {
+    font-size: 25px;
+    color: #36020dd0;
+    text-transform: uppercase; 
+    text-decoration: none;
+}
