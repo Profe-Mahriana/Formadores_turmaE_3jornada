@@ -69,7 +69,8 @@ ul {
 }
 nav li {
     display: inline;
-    margin-right: 5%;
+    margin-right: 5px;
+    padding: 7px;
     }
 nav a {
     font-size: 25px;
