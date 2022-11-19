@@ -3,9 +3,12 @@ body {
     height: 12%;
 
 }
-
-#cabeçario {
+header {
     background-color: #977d45;
+
+
+}
+#cabeçario {
     width: 100%;
     height: 300px;
     display: block;
